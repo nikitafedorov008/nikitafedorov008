@@ -20,7 +20,7 @@ Skills: ANDROID / JAVA / KOTLIN / DART / FLUTTER
 
 Achievements:
 
-- First place in the final of the All-Russian competition for socio-technical entrepreneurship Preaktum Cup 2018;
+- First place in the final of the All-Russian competition for socio-technical entrepreneurship Preactum Cup 2018;
 
 - Second place at the hackathon of the St. Petersburg Polytechnic University 2019;
 
@@ -41,7 +41,7 @@ Key skills:
 - I have the skills to create applications of medium complexity for Android "from scratch" 
 - I have several laid out applications 
 - Also a lot of debugged working pieces of code that can be used for future projects 
-- I work in the AndroidStudio environment 
+- I work in the AndroidStudio and IntellijIdea environments
 - Knowledge of the Android API 25.0 and up, understanding Android architecture. 
 - I read technical documentation and literature in English
 - Understanding the principles of OOP 
@@ -52,7 +52,5 @@ Foreign languages:
 
 English - Conversational (Cambridge Assessment- Cambridge English Entry Level Certificate in ESOL International (Entry-2) A2-advanced)
 
-
-As a child, he dreamed of becoming a Googler
 
 ![Profile views](https://gpvc.arturio.dev/nikitafedorov008)
