@@ -2,15 +2,25 @@
 #### 𝕁𝕦𝕟𝕚𝕠𝕣(𝔸𝕟𝕕𝕣𝕠𝕚𝕕, 𝔽𝕝𝕦𝕥𝕥𝕖𝕣) 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
 ![𝕁𝕦𝕟𝕚𝕠𝕣(𝔸𝕟𝕕𝕣𝕠𝕚𝕕, 𝔽𝕝𝕦𝕥𝕥𝕖𝕣) 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣](https://sun9-26.userapi.com/vF0KX7pDHlhoq6STPU6p8dGM6Rgc3v-g5oNe9A/sKxP2h6uJ38.jpg)
 
-Education:
+Skills: ANDROID / JAVA / KOTLIN / DART / FLUTTER
 
-Сomplete secondary education GBOU SOSH # 457 SPB with in-depth study of English and computer science
+- 🔭 I’m currently working on polka (shelf) app 
+- 🌱 I’m currently learning Google's Flutter 
+- 👯 I’m looking to collaborate on startups with mobile apps 
+- 🤔 I’m looking for help with REST api 
+- 💬 Ask me about Flutter and Android 
+- 📫 How to reach me: email: nikitafedorov008@gmail.com 
+- 😄 Pronouns: ɴᴇᴋɪᴛ 
+- ⚡ Fun fact: ₮Ⱨ₳₦₭₴ ₣ØⱤ ⱤɆ₳Đł₦₲ ł₮ 
 
 
-Additional education, 2017-2020:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nikitafedorov008)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/nikitafedorov008)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nikitawolf008//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13173869/nikita-fedorov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg' alt='tumblr' height='40'>](https://nikitawolf008.tumblr.com/)  
 
-Digital Banana (Android + Java), Alexanderklimoff, Startandroid, Stepik, SoloLearn (Java, C ++)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafedorov008&show_icons=true)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafedorov008)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/nikitafedorov008)  
 
 Achievements:
 
@@ -48,23 +58,3 @@ English - Conversational (Cambridge Assessment- Cambridge English Entry Level Ce
 
 
 As a child, he dreamed of becoming a Googler
-
-Skills: ANDROID / JAVA / KOTLIN / DART / FLUTTER
-
-- 🔭 I’m currently working on polka (shelf) app 
-- 🌱 I’m currently learning Google's Flutter 
-- 👯 I’m looking to collaborate on startups with mobile apps 
-- 🤔 I’m looking for help with REST api 
-- 💬 Ask me about Flutter and Android 
-- 📫 How to reach me: email: nikitafedorov008@gmail.com 
-- 😄 Pronouns: ɴᴇᴋɪᴛ 
-- ⚡ Fun fact: ₮Ⱨ₳₦₭₴ ₣ØⱤ ⱤɆ₳Đł₦₲ ł₮ 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nikitafedorov008)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/nikitafedorov008)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nikitawolf008//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13173869/nikita-fedorov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg' alt='tumblr' height='40'>](https://nikitawolf008.tumblr.com/)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafedorov008&show_icons=true)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafedorov008)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/nikitafedorov008)  
