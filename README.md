@@ -5,10 +5,12 @@
 Skills: ANDROID / JAVA / KOTLIN / DART / FLUTTER
 
 ### Languages and Tools
-![DART](https://img.shields.io/badge/-Dart-05151e?style=for-the-badge&logo=Dart)
-![FLUTTER](https://img.shields.io/badge/-Flutter-05151e?style=for-the-badge&logo=Flutter)
+
+![ANDROID](https://img.shields.io/badge/-Android-05151e?style=for-the-badge&logo=Android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05151e?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-05151e?style=for-the-badge&logo=Java)
+![DART](https://img.shields.io/badge/-Dart-05151e?style=for-the-badge&logo=Dart)
+![FLUTTER](https://img.shields.io/badge/-Flutter-05151e?style=for-the-badge&logo=Flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-05151e?style=for-the-badge&logo=Firebase)
 ![Python](https://img.shields.io/badge/-Python-05151e?style=for-the-badge&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-05151e?style=for-the-badge&logo=Git)
