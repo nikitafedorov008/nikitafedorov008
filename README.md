@@ -4,6 +4,13 @@
 
 Skills: ANDROID / JAVA / KOTLIN / DART / FLUTTER
 
+### Languages and Tools
+![Kotlin](https://img.shields.io/badge/-Kotlin-05151e?style=for-the-badge&logo=Kotlin)
+![Java](https://img.shields.io/badge/-Java-05151e?style=for-the-badge&logo=Java)
+![Firebase](https://img.shields.io/badge/-Firebase-05151e?style=for-the-badge&logo=Firebase)
+![Python](https://img.shields.io/badge/-Python-05151e?style=for-the-badge&logo=Python)
+![Git](https://img.shields.io/badge/-Git-05151e?style=for-the-badge&logo=Git)
+
 - 🔭 I’m currently working on polka (shelf) app 
 - 🌱 I’m currently learning Google's Flutter 
 - 👯 I’m looking to collaborate on startups with mobile apps 
