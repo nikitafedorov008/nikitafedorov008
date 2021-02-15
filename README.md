@@ -6,6 +6,7 @@ Skills: ANDROID / JAVA / KOTLIN / DART / FLUTTER
 
 ### Languages and Tools
 ![DART](https://img.shields.io/badge/-Dart-05151e?style=for-the-badge&logo=Dart)
+![FLUTTER](https://img.shields.io/badge/-Flutter-05151e?style=for-the-badge&logo=Flutter)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05151e?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-05151e?style=for-the-badge&logo=Java)
 ![Firebase](https://img.shields.io/badge/-Firebase-05151e?style=for-the-badge&logo=Firebase)
