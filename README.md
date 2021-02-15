@@ -24,12 +24,13 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafedorov008&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafedorov008)](https://github.com/anuraghazra/github-readme-stats) 
 
-### Follow Me
-[![instagram](https://img.shields.io/badge/-instagram-05151e?style=for-the-badge&logo=instagram)](https://www.instagram.com/nikitawolf008/)
+### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-05151e?style=for-the-badge&logo=Telegram)](https://t.me/nikitafedorov008)
 [![Stack](https://img.shields.io/badge/-Stackoverflow-05151e?style=for-the-badge&logo=Stackoverflow)](https://stackoverflow.com/users/https://stackoverflow.com/users/13173869/nikita-fedorov)
-[![Tumblr](https://img.shields.io/badge/-tumblr-05151e?style=for-the-badge&logo=tumblr)](https://nikitawolf008.tumblr.com)
 [![Dev](https://img.shields.io/badge/-dev.to-05151e?style=for-the-badge&logo=dev.to)](https://dev.to/https://dev.to/nikitafedorov008)
+[![instagram](https://img.shields.io/badge/-instagram-05151e?style=for-the-badge&logo=instagram)](https://www.instagram.com/nikitawolf008/)
+[![Tumblr](https://img.shields.io/badge/-tumblr-05151e?style=for-the-badge&logo=tumblr)](https://nikitawolf008.tumblr.com)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nikitafedorov008)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/nikitafedorov008)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nikitawolf008//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/13173869/nikita-fedorov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tumblr.svg' alt='tumblr' height='40'>](https://nikitawolf008.tumblr.com/)
 
