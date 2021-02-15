@@ -2,9 +2,7 @@
 #### 𝕁𝕦𝕟𝕚𝕠𝕣(𝔸𝕟𝕕𝕣𝕠𝕚𝕕, 𝔽𝕝𝕦𝕥𝕥𝕖𝕣) 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
 ![𝕁𝕦𝕟𝕚𝕠𝕣(𝔸𝕟𝕕𝕣𝕠𝕚𝕕, 𝔽𝕝𝕦𝕥𝕥𝕖𝕣) 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣](https://sun9-26.userapi.com/vF0KX7pDHlhoq6STPU6p8dGM6Rgc3v-g5oNe9A/sKxP2h6uJ38.jpg)
 
-Skills: ANDROID / JAVA / KOTLIN / DART / FLUTTER
-
-### Languages and Tools
+### Skills:
 
 ![ANDROID](https://img.shields.io/badge/-Android-05151e?style=for-the-badge&logo=Android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05151e?style=for-the-badge&logo=Kotlin)
@@ -13,7 +11,6 @@ Skills: ANDROID / JAVA / KOTLIN / DART / FLUTTER
 ![FLUTTER](https://img.shields.io/badge/-Flutter-05151e?style=for-the-badge&logo=Flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-05151e?style=for-the-badge&logo=Firebase)
 ![Python](https://img.shields.io/badge/-Python-05151e?style=for-the-badge&logo=Python)
-![Git](https://img.shields.io/badge/-Git-05151e?style=for-the-badge&logo=Git)
 
 - 🔭 I’m currently working on polka (shelf) app 
 - 🌱 I’m currently learning Google's Flutter 
