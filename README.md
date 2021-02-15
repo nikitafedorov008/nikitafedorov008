@@ -9,7 +9,7 @@ Skills: ANDROID / JAVA / KOTLIN / DART / FLUTTER
 - 👯 I’m looking to collaborate on startups with mobile apps 
 - 🤔 I’m looking for help with REST api 
 - 💬 Ask me about Flutter and Android 
-- 📫 How to reach me: email: nikitafedorov008@gmail.com 
+- 📫 How to reach me: nikitafedorov008@gmail.com 
 - 😄 Pronouns: ɴᴇᴋɪᴛ 
 - ⚡ Fun fact: ₮Ⱨ₳₦₭₴ ₣ØⱤ ⱤɆ₳Đł₦₲ ł₮ 
 
