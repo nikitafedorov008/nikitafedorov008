@@ -24,7 +24,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafedorov008&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafedorov008)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/nikitafedorov008/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafedorov008&show_icons=true&theme=radical)
 
 ### Follow Me:
 [![Stack](https://img.shields.io/badge/-Stackoverflow-05151e?style=for-the-badge&logo=Stackoverflow)](https://stackoverflow.com/users/13173869/nikita-fedorov)
