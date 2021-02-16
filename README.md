@@ -9,8 +9,8 @@
 ![Java](https://img.shields.io/badge/-Java-05151e?style=for-the-badge&logo=Java)
 ![DART](https://img.shields.io/badge/-Dart-05151e?style=for-the-badge&logo=Dart)
 ![FLUTTER](https://img.shields.io/badge/-Flutter-05151e?style=for-the-badge&logo=Flutter)
-![Firebase](https://img.shields.io/badge/-Firebase-05151e?style=for-the-badge&logo=Firebase)
 ![Python](https://img.shields.io/badge/-Python-05151e?style=for-the-badge&logo=Python)
+![Firebase](https://img.shields.io/badge/-Firebase-05151e?style=for-the-badge&logo=Firebase)
 
 - 🔭 I’m currently working on polka (shelf) app 
 - 🌱 I’m currently learning Google's Flutter 
