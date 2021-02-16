@@ -25,7 +25,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafedorov008&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafedorov008)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### Follow Me:
-[![Stack](https://img.shields.io/badge/-Stackoverflow-05151e?style=for-the-badge&logo=Stackoverflow)](https://stackoverflow.com/users/https://stackoverflow.com/users/13173869/nikita-fedorov)
+[![Stack](https://img.shields.io/badge/-Stackoverflow-05151e?style=for-the-badge&logo=Stackoverflow)](https://stackoverflow.com/users/13173869/nikita-fedorov)
 [![Dev](https://img.shields.io/badge/-dev.to-05151e?style=for-the-badge&logo=dev.to)](https://dev.to/https://dev.to/nikitafedorov008)
 [![Telegram](https://img.shields.io/badge/-Telegram-05151e?style=for-the-badge&logo=Telegram)](https://t.me/nikitafedorov008)
 [![instagram](https://img.shields.io/badge/-instagram-05151e?style=for-the-badge&logo=instagram)](https://www.instagram.com/nikitawolf008/)
