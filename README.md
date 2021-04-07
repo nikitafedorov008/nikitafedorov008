@@ -23,7 +23,7 @@
 - ⚡ Fun fact: ₮Ⱨ₳₦₭₴ ₣ØⱤ ⱤɆ₳Đł₦₲ ł₮ 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafedorov008&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafedorov008&layout=compact&hide_border=true&card_height=500&theme=dark&text_color=ffffff&bg_color=DEG,0c1b4a,114c96)](https://github.com/nikitafedorov008)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafedorov008&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafedorov008&layout=compact&hide_border=true&card_height=700&theme=dark&text_color=ffffff&bg_color=DEG,0c1b4a,114c96)](https://github.com/nikitafedorov008)
 
 
 ### Follow Me:
