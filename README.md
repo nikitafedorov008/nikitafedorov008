@@ -13,6 +13,7 @@
 ![C](https://img.shields.io/badge/-C-05151e?style=for-the-badge&logo=C)
 ![Firebase](https://img.shields.io/badge/-Firebase-05151e?style=for-the-badge&logo=Firebase)
 ![STRAPI](https://img.shields.io/badge/-Strapi-05151e?style=for-the-badge&logo=Strapi)
+![HASURA](https://img.shields.io/badge/-Hasura-05151e?style=for-the-badge&logo=Hasura)
 
 - 🔭 I’m currently working on polka (shelf) app 
 - 🌱 I’m currently learning Google's Flutter 
