@@ -11,11 +11,9 @@
 ![FLUTTER](https://img.shields.io/badge/-Flutter-05151e?style=for-the-badge&logo=Flutter)
 ![Python](https://img.shields.io/badge/-Python-05151e?style=for-the-badge&logo=Python)
 ![C](https://img.shields.io/badge/-C-05151e?style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/-c++-05151e?style=for-the-badge&logo=c++)
 ![Firebase](https://img.shields.io/badge/-Firebase-05151e?style=for-the-badge&logo=Firebase)
 ![STRAPI](https://img.shields.io/badge/-Strapi-05151e?style=for-the-badge&logo=Strapi)
 ![HASURA](https://img.shields.io/badge/-Hasura-05151e?style=for-the-badge&logo=Hasura)
-![APOLLO](https://img.shields.io/badge/-Apollo-05151e?style=for-the-badge&logo=Apollo)
 
 - 🔭 I’m currently working on polka (shelf) app 
 - 🌱 I’m currently learning Backend development 
