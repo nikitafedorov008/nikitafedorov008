@@ -11,12 +11,13 @@
 ![FLUTTER](https://img.shields.io/badge/-Flutter-05151e?style=for-the-badge&logo=Flutter)
 ![Python](https://img.shields.io/badge/-Python-05151e?style=for-the-badge&logo=Python)
 ![C](https://img.shields.io/badge/-C-05151e?style=for-the-badge&logo=C)
+![C++](https://img.shields.io/badge/-C++-05151e?style=for-the-badge&logo=C++)
 ![Firebase](https://img.shields.io/badge/-Firebase-05151e?style=for-the-badge&logo=Firebase)
 ![STRAPI](https://img.shields.io/badge/-Strapi-05151e?style=for-the-badge&logo=Strapi)
 ![HASURA](https://img.shields.io/badge/-Hasura-05151e?style=for-the-badge&logo=Hasura)
 
 - 🔭 I’m currently working on polka (shelf) app 
-- 🌱 I’m currently learning Google's Flutter 
+- 🌱 I’m currently learning Backend development 
 - 👯 I’m looking to collaborate on startups with mobile apps 
 - 🤔 I’m looking for help with gRPC api 
 - 💬 Ask me about Flutter and Android 
