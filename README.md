@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on polka (shelf) app 
 - 🌱 I’m currently learning Backend development 
-- 👯 I’m looking to collaborate on startups with mobile apps 
+- 👯 I want to collaborate in scientific projects and startups with mobile applications 
 - 🤔 I’m looking for help with gRPC api 
 - 💬 Ask me about Flutter and Android 
 - 📫 How to reach me: nikitafedorov008@gmail.com 
