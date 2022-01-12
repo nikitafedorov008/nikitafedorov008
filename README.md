@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on polka (shelf) app 
 - 🌱 I’m currently learning Backend development 
 - 👯 I want to collaborate in scientific projects and startups with mobile applications 
-- 🤔 I’m looking for help with gRPC api 
+- 🤔 I’m looking for help with gRPC web
 - 💬 Ask me about Flutter and Android 
 - 📫 How to reach me: nikitafedorov008@gmail.com 
 - 😄 Pronouns: ɴᴇᴋɪᴛ 
