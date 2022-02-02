@@ -59,10 +59,11 @@ Key skills:
 - I have several laid out applications 
 - Also a lot of debugged working pieces of code that can be used for future projects 
 - I work in the AndroidStudio and IntellijIdea environments
-- Knowledge of the Android API 25.0 and up, understanding Android architecture. 
+- Knowledge of the Android API 25.0 and up, understanding Android architecture
 - I read technical documentation and literature in English
 - Understanding the principles of OOP 
-- Skills in working with version control systems: Git, Github - Java-Kotlin - Material Design - JSON, XML - Firebase - MVP, Material Design, Fragments, Butterknife, Picasso
+- Skills in working with version control systems: Git, Github 
+- Java, Kotlin, Dart - Material Design - JSON, XML - Firebase - MVP, BLoC - Material Design, Fragments
 
 
 Foreign languages:
