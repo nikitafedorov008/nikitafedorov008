@@ -15,7 +15,7 @@
 ![STRAPI](https://img.shields.io/badge/-Strapi-05151e?style=for-the-badge&logo=Strapi)
 ![HASURA](https://img.shields.io/badge/-Hasura-05151e?style=for-the-badge&logo=Hasura)
 
-- 🔭 I’m currently working on polka (shelf) app 
+- 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning algorithms and data structures 
 - 👯 I want to collaborate in scientific projects and startups with mobile apps 
 - 🤔 I’m looking for help with gRPC web
