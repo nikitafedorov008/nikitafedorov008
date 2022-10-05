@@ -12,6 +12,7 @@
 ![Python](https://img.shields.io/badge/-Python-05151e?style=for-the-badge&logo=Python)
 ![C](https://img.shields.io/badge/-C-05151e?style=for-the-badge&logo=C)
 ![Firebase](https://img.shields.io/badge/-Firebase-05151e?style=for-the-badge&logo=Firebase)
+![SUPABASE](https://img.shields.io/badge/-Supabase-05151e?style=for-the-badge&logo=Supabase)
 ![STRAPI](https://img.shields.io/badge/-Strapi-05151e?style=for-the-badge&logo=Strapi)
 ![HASURA](https://img.shields.io/badge/-Hasura-05151e?style=for-the-badge&logo=Hasura)
 
