@@ -13,6 +13,7 @@
 ![C](https://img.shields.io/badge/-C-05151e?style=for-the-badge&logo=C)
 ![Firebase](https://img.shields.io/badge/-Firebase-05151e?style=for-the-badge&logo=Firebase)
 ![SUPABASE](https://img.shields.io/badge/-Supabase-05151e?style=for-the-badge&logo=Supabase)
+![POCKETBASE](https://img.shields.io/badge/-Pocketbase-05151e?style=for-the-badge&logo=Pocketbase)
 ![STRAPI](https://img.shields.io/badge/-Strapi-05151e?style=for-the-badge&logo=Strapi)
 ![HASURA](https://img.shields.io/badge/-Hasura-05151e?style=for-the-badge&logo=Hasura)
 
