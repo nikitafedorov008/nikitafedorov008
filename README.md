@@ -18,6 +18,7 @@
 ![HASURA](https://img.shields.io/badge/-Hasura-05151e?style=for-the-badge&logo=Hasura)
 ![DOCKER](https://img.shields.io/badge/-Docker-05151e?style=for-the-badge&logo=Docker)
 ![KUBERNETES](https://img.shields.io/badge/-Kubernetes-05151e?style=for-the-badge&logo=Kubernetes)
+![BASH](https://img.shields.io/badge/-Bash-05151e?style=for-the-badge&logo=Bash)
 
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning algorithms and data structures 
