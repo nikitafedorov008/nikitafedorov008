@@ -16,6 +16,8 @@
 ![POCKETBASE](https://img.shields.io/badge/-Pocketbase-05151e?style=for-the-badge&logo=Pocketbase)
 ![STRAPI](https://img.shields.io/badge/-Strapi-05151e?style=for-the-badge&logo=Strapi)
 ![HASURA](https://img.shields.io/badge/-Hasura-05151e?style=for-the-badge&logo=Hasura)
+![DOCKER](https://img.shields.io/badge/-Docker-05151e?style=for-the-badge&logo=Docker)
+![KUBERNETES](https://img.shields.io/badge/-Kubernetes-05151e?style=for-the-badge&logo=Kubernetes)
 
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning algorithms and data structures 
