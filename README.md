@@ -10,7 +10,7 @@
 ![DART](https://img.shields.io/badge/-Dart-05151e?style=for-the-badge&logo=Dart)
 ![FLUTTER](https://img.shields.io/badge/-Flutter-05151e?style=for-the-badge&logo=Flutter)
 ![Python](https://img.shields.io/badge/-Python-05151e?style=for-the-badge&logo=Python)
-![C](https://img.shields.io/badge/-C-05151e?style=for-the-badge&logo=C)
+![C/C++](https://img.shields.io/badge/-C-05151e?style=for-the-badge&logo=C)
 ![Firebase](https://img.shields.io/badge/-Firebase-05151e?style=for-the-badge&logo=Firebase)
 ![SUPABASE](https://img.shields.io/badge/-Supabase-05151e?style=for-the-badge&logo=Supabase)
 ![POCKETBASE](https://img.shields.io/badge/-Pocketbase-05151e?style=for-the-badge&logo=Pocketbase)
