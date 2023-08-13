@@ -25,10 +25,9 @@
 - 🌱 I’m currently learning algorithms and data structures 
 - 👯 I want to collaborate in scientific projects and startups with mobile apps 
 - 🤔 I’m looking for help with gRPC web
-- 💬 Ask me about Flutter and Android 
+- 💬 Ask me about Flutter and Android (iOS a little bit)
 - 📫 How to reach me: nikitafedorov008@gmail.com 
-- 😄 Pronouns: ɴᴇᴋɪᴛ 
-- ⚡ Fun fact: ₮Ⱨ₳₦₭₴ ₣ØⱤ ⱤɆ₳Đł₦₲ ł₮ 
+- 😄 Pronouns: Him/His
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafedorov008&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafedorov008&layout=compact&hide_border=true&card_width=350&theme=dark&text_color=ffffff&bg_color=DEG,0C1B4A,9611ff)](https://github.com/nikitafedorov008)
