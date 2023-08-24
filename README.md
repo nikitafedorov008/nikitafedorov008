@@ -5,8 +5,10 @@
 ### Skills:
 
 ![ANDROID](https://img.shields.io/badge/-Android-05151e?style=for-the-badge&logo=Android)
+![IOS](https://img.shields.io/badge/-Ios-05151e?style=for-the-badge&logo=Ios)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05151e?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-05151e?style=for-the-badge&logo=Java)
+![Swift](https://img.shields.io/badge/-Swift-05151e?style=for-the-badge&logo=Swift)
 ![DART](https://img.shields.io/badge/-Dart-05151e?style=for-the-badge&logo=Dart)
 ![FLUTTER](https://img.shields.io/badge/-Flutter-05151e?style=for-the-badge&logo=Flutter)
 ![Python](https://img.shields.io/badge/-Python-05151e?style=for-the-badge&logo=Python)
