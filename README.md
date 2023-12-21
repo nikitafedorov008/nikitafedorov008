@@ -37,7 +37,7 @@
 
 ### Follow Me:
 [![Stack](https://img.shields.io/badge/-Stackoverflow-05151e?style=for-the-badge&logo=Stackoverflow)](https://stackoverflow.com/users/13173869/nikita-fedorov)
-[![Dev](https://img.shields.io/badge/-dev.to-05151e?style=for-the-badge&logo=dev.to)](https://dev.to/https://dev.to/nikitafedorov008)
+[![Dev](https://img.shields.io/badge/-dev.to-05151e?style=for-the-badge&logo=dev.to)](https://dev.to/nikitafedorov008)
 [![Telegram](https://img.shields.io/badge/-Telegram-05151e?style=for-the-badge&logo=Telegram)](https://t.me/nikitafedorov008)
 [![instagram](https://img.shields.io/badge/-instagram-05151e?style=for-the-badge&logo=instagram)](https://www.instagram.com/nikitawolf008/)
 [![Tumblr](https://img.shields.io/badge/-tumblr-05151e?style=for-the-badge&logo=tumblr)](https://nikitawolf008.tumblr.com)
