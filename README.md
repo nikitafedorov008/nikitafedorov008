@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning algorithms and data structures 
 - 👯 I want to collaborate in scientific projects and startups with mobile apps 
-- 🤔 I’m looking for help with gRPC web
+- 🤔 I’m looking for help with ML and Deep Learing
 - 💬 Ask me about Flutter and Android (iOS a little bit)
 - 📫 How to reach me: nikitafedorov008@gmail.com 
 - 😄 Pronouns: Him/His
