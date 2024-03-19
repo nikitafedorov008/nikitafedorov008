@@ -1,4 +1,4 @@
-### Hi there 👋, ｉ'ｍ　Ｎｉｋｉｔａ
+### Hi there 👋, ｉ'ｍ　<a href="https://standardresume.co/r/Osx3-dhH3XS57lVPRj2LM" target="_blank">Ｎｉｋｉｔａ</a>
 #### 𝔽𝕝𝕦𝕥𝕥𝕖𝕣 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
 ![𝕁𝕦𝕟𝕚𝕠𝕣(𝔸𝕟𝕕𝕣𝕠𝕚𝕕, 𝔽𝕝𝕦𝕥𝕥𝕖𝕣) 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣](https://sun9-26.userapi.com/vF0KX7pDHlhoq6STPU6p8dGM6Rgc3v-g5oNe9A/sKxP2h6uJ38.jpg)
 
