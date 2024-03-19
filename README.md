@@ -75,7 +75,7 @@ Key skills:
 
 Foreign languages:
 
-English - Conversational (Cambridge Assessment- Cambridge English Entry Level Certificate in ESOL International (Entry-2) A2-advanced)
+English - B1
 
 
 ![Profile views](https://gpvc.arturio.dev/nikitafedorov008)
