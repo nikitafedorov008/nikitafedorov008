@@ -4,24 +4,17 @@
 
 ### Skills:
 
+![DART](https://img.shields.io/badge/-Dart-05151e?style=for-the-badge&logo=Dart)
+![FLUTTER](https://img.shields.io/badge/-Flutter-05151e?style=for-the-badge&logo=Flutter)
 ![ANDROID](https://img.shields.io/badge/-Android-05151e?style=for-the-badge&logo=Android)
 ![IOS](https://img.shields.io/badge/-Ios-05151e?style=for-the-badge&logo=Ios)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05151e?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-05151e?style=for-the-badge&logo=Java)
 ![Swift](https://img.shields.io/badge/-Swift-05151e?style=for-the-badge&logo=Swift)
-![DART](https://img.shields.io/badge/-Dart-05151e?style=for-the-badge&logo=Dart)
-![FLUTTER](https://img.shields.io/badge/-Flutter-05151e?style=for-the-badge&logo=Flutter)
-![Python](https://img.shields.io/badge/-Python-05151e?style=for-the-badge&logo=Python)
-![C/C++](https://img.shields.io/badge/-C-05151e?style=for-the-badge&logo=C)
 ![Firebase](https://img.shields.io/badge/-Firebase-05151e?style=for-the-badge&logo=Firebase)
 ![SUPABASE](https://img.shields.io/badge/-Supabase-05151e?style=for-the-badge&logo=Supabase)
-![POCKETBASE](https://img.shields.io/badge/-Pocketbase-05151e?style=for-the-badge&logo=Pocketbase)
-![STRAPI](https://img.shields.io/badge/-Strapi-05151e?style=for-the-badge&logo=Strapi)
-![HASURA](https://img.shields.io/badge/-Hasura-05151e?style=for-the-badge&logo=Hasura)
 ![DOCKER](https://img.shields.io/badge/-Docker-05151e?style=for-the-badge&logo=Docker)
 ![KUBERNETES](https://img.shields.io/badge/-Kubernetes-05151e?style=for-the-badge&logo=Kubernetes)
-![BASH](https://img.shields.io/badge/-Bash-05151e?style=for-the-badge&logo=Bash)
-![CODEMAGIC](https://img.shields.io/badge/-Codemagic-05151e?style=for-the-badge&logo=Codemagic)
 
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning algorithms and data structures 
