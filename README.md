@@ -25,7 +25,7 @@
 - 😄 Pronouns: Him/His
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitafedorov008&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafedorov008&layout=compact&hide_border=true&card_width=350&theme=dark&text_color=ffffff&bg_color=DEG,0C1B4A,9611ff)](https://github.com/nikitafedorov008)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafedorov008&layout=compact&hide_border=true&card_width=350&theme=dark&text_color=ffffff&bg_color=DEG,0C1B4A,9611ff)](https://github.com/nikitafedorov008)
 
 
 ### Follow Me:
