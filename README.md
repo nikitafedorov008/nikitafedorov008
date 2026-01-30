@@ -1,6 +1,6 @@
 ### Hi there 👋, ｉ'ｍ　<a href="https://standardresume.co/r/Osx3-dhH3XS57lVPRj2LM" target="_blank">Ｎｉｋｉｔａ</a>
-#### 𝔽𝕝𝕦𝕥𝕥𝕖𝕣 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
-![𝕁𝕦𝕟𝕚𝕠𝕣(𝔸𝕟𝕕𝕣𝕠𝕚𝕕, 𝔽𝕝𝕦𝕥𝕥𝕖𝕣) 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣](https://sun9-26.userapi.com/vF0KX7pDHlhoq6STPU6p8dGM6Rgc3v-g5oNe9A/sKxP2h6uJ38.jpg)
+#### 𝕄𝕠𝕓𝕚𝕝𝕖 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 (𝔽𝕝𝕦𝕥𝕥𝕖𝕣, 𝔸𝕟𝕕𝕣𝕠𝕚𝕕, 𝕚𝕆𝕊)
+![(𝔽𝕝𝕦𝕥𝕥𝕖𝕣, 𝔸𝕟𝕕𝕣𝕠𝕚𝕕, 𝕚𝕆𝕊) 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣](https://sun9-26.userapi.com/vF0KX7pDHlhoq6STPU6p8dGM6Rgc3v-g5oNe9A/sKxP2h6uJ38.jpg)
 
 ### Skills:
 
@@ -20,9 +20,9 @@
 - 🌱 I’m currently learning algorithms and data structures 
 - 👯 I want to collaborate in scientific projects and startups with mobile apps 
 - 🤔 I’m looking for help with ML and Deep Learing
-- 💬 Ask me about Flutter and Android (iOS a little bit)
+- 💬 Ask me about Android & iOS, Flutter
 - 📫 How to reach me: nikitafedorov008@gmail.com 
-- 😄 Pronouns: Him/His
+- 😄 Pronouns: He/Him
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafedorov008&layout=compact&hide_border=true&card_width=350&theme=dark&text_color=ffffff&bg_color=DEG,0C1B4A,9611ff)](https://github.com/nikitafedorov008)
@@ -66,6 +66,3 @@ Key skills:
 Foreign languages:
 
 English - B1
-
-
-![Profile views](https://gpvc.arturio.dev/nikitafedorov008)
