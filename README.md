@@ -32,7 +32,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-05151e?style=for-the-badge&logo=Telegram)](https://t.me/nikitafedorov008)
 [![instagram](https://img.shields.io/badge/-instagram-05151e?style=for-the-badge&logo=instagram)](https://www.instagram.com/nikitawolf008/)
 
-Achievements:
+**Achievements:**
 
 - First place in the final of the All-Russian competition for socio-technical entrepreneurship Preactum Cup 2018;
 
@@ -41,7 +41,7 @@ Achievements:
 - Finalist of the competition for socio-technical entrepreneurship Cup Preactum of the future practice 2019;
 
 
-Projects:
+**Projects:**
 
 - Polka is an Internet site for renting various things, written in Java using ML kit for user verification, automatic distribution of product categories, and Firebase (Real-time database, storage) for storing and processing data
 Project twice a finalist at Preactum Cup 2018 and 2019
@@ -50,7 +50,7 @@ Project twice a finalist at Preactum Cup 2018 and 2019
 The project received 1 place in the 2018 Preactum Cup and funding in the amount of 300,000 rubles from the "Rybakov Fund"
 
 
-Key skills:
+**Key skills:**
 
 - I have the skills to create applications of medium complexity for Android "from scratch" 
 - I have several laid out applications 
@@ -63,6 +63,6 @@ Key skills:
 - Java, Kotlin, Dart - Material Design - JSON, XML - Firebase - MVP, BLoC - Material Design, Fragments
 
 
-Foreign languages:
+**Foreign languages:**
 
 English - B1
