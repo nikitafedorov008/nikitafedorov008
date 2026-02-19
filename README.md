@@ -1,5 +1,5 @@
-### Hi there 👋, ｉ'ｍ　<a href="https://standardresume.co/r/Osx3-dhH3XS57lVPRj2LM" target="_blank">Ｎｉｋｉｔａ</a>
-#### Mobile developer (FLutter, Android, iOS)
+## Hi there 👋, ｉ'ｍ　<a href="https://standardresume.co/r/Osx3-dhH3XS57lVPRj2LM" target="_blank">Ｎｉｋｉｔａ</a>
+### Mobile developer (FLutter, Android, iOS)
 ![mobile developer](https://sun9-26.userapi.com/vF0KX7pDHlhoq6STPU6p8dGM6Rgc3v-g5oNe9A/sKxP2h6uJ38.jpg)
 
 ### Skills:
@@ -29,7 +29,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-05151e?style=for-the-badge&logo=Telegram)](https://t.me/nikitafedorov008)
 [![Gmail](https://img.shields.io/badge/-Gmail-05151e?style=for-the-badge&logo=Gmail)](mailto:nikitafedorov008@gmail.com)
 
-**Achievements:**
+### Achievements:
 
 - First place in the final of the All-Russian competition for socio-technical entrepreneurship Preactum Cup 2018;
 
@@ -38,7 +38,7 @@
 - Finalist of the competition for socio-technical entrepreneurship Cup Preactum of the future practice 2019;
 
 
-**Projects:**
+### Projects I took part in:
 
 - Polka is an Internet site for renting various things, written in Java using ML kit for user verification, automatic distribution of product categories, and Firebase (Real-time database, storage) for storing and processing data
 Project twice a finalist at Preactum Cup 2018 and 2019
