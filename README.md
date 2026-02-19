@@ -1,6 +1,6 @@
 ### Hi there 👋, ｉ'ｍ　<a href="https://standardresume.co/r/Osx3-dhH3XS57lVPRj2LM" target="_blank">Ｎｉｋｉｔａ</a>
-#### 𝕄𝕠𝕓𝕚𝕝𝕖 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 (𝔽𝕝𝕦𝕥𝕥𝕖𝕣, 𝔸𝕟𝕕𝕣𝕠𝕚𝕕, 𝕚𝕆𝕊)
-![(𝔽𝕝𝕦𝕥𝕥𝕖𝕣, 𝔸𝕟𝕕𝕣𝕠𝕚𝕕, 𝕚𝕆𝕊) 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣](https://sun9-26.userapi.com/vF0KX7pDHlhoq6STPU6p8dGM6Rgc3v-g5oNe9A/sKxP2h6uJ38.jpg)
+#### Mobile developer (FLutter, Android, iOS)
+![mobile developer](https://sun9-26.userapi.com/vF0KX7pDHlhoq6STPU6p8dGM6Rgc3v-g5oNe9A/sKxP2h6uJ38.jpg)
 
 ### Skills:
 
@@ -25,12 +25,9 @@
 - 😄 Pronouns: He/Him
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitafedorov008&layout=compact&hide_border=true&card_width=350&theme=dark&text_color=ffffff&bg_color=DEG,0C1B4A,9611ff)](https://github.com/nikitafedorov008)
-
-
-### Follow Me:
+### Contact Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-05151e?style=for-the-badge&logo=Telegram)](https://t.me/nikitafedorov008)
-[![instagram](https://img.shields.io/badge/-instagram-05151e?style=for-the-badge&logo=instagram)](https://www.instagram.com/nikitawolf008/)
+[![Email](https://img.shields.io/badge/-Email-05151e?style=for-the-badge&logo=Email)](mailto:nikitafedorov008@gmail.com)
 
 **Achievements:**
 
@@ -50,17 +47,18 @@ Project twice a finalist at Preactum Cup 2018 and 2019
 The project received 1 place in the 2018 Preactum Cup and funding in the amount of 300,000 rubles from the "Rybakov Fund"
 
 
-**Key skills:**
+### Key skills:
 
-- I have the skills to create applications of medium complexity for Android "from scratch" 
-- I have several laid out applications 
-- Also a lot of debugged working pieces of code that can be used for future projects 
-- I work in the AndroidStudio and IntellijIdea environments
-- Knowledge of the Android API 25.0 and up, understanding Android architecture
-- I read technical documentation and literature in English
+- Skills to create mobile applications of medium complexity "from scratch" 
+- Several laid out applications 
+- Work in AndroidStudio / IntellijIdea & VSCode & XCode environments
+- Knowledge of the Android API 25.0 and up, understanding Android & iOS architectures
 - Understanding the principles of OOP 
-- Skills in working with version control systems: Git, Github 
-- Java, Kotlin, Dart - Material Design - JSON, XML - Firebase - MVP, BLoC - Material Design, Fragments
+- Knowledge of presentation desgin patterns: MVVM, BLoC, MVP
+- Languages: Kotlin, Swift, Dart, Java
+- UI: Material Design, Human Interface, Fluent UI
+- Data Formats: JSON, ProtoBuf, FlatBuffer/FlexBuffer
+- Services: Firebase, Supabase, Sentry
 
 
 **Foreign languages:**
