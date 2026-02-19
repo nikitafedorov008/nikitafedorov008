@@ -31,19 +31,19 @@
 
 ### Achievements:
 
-- First place in the final of the All-Russian competition for socio-technical entrepreneurship Preactum Cup 2018;
+- **First place** in the final of the All-Russian competition for socio-technical entrepreneurship **Preactum Cup 2018**;
 
-- Second place at the hackathon of the St. Petersburg Polytechnic University 2019;
+- **Second place** at the hackathon of the **St. Petersburg Polytechnic University 2019**;
 
-- Finalist of the competition for socio-technical entrepreneurship Cup Preactum of the future practice 2019;
+- **Finalist** of the competition for socio-technical entrepreneurship **Cup Preactum of the future practice 2019**;
 
 
 ### Projects I took part in:
 
-- Polka is an Internet site for renting various things, written in Java using ML kit for user verification, automatic distribution of product categories, and Firebase (Real-time database, storage) for storing and processing data
+- **Polka** is an Internet site for renting various things, written in Java using ML kit for user verification, automatic distribution of product categories, and Firebase (Real-time database, storage) for storing and processing data
 Project twice a finalist at Preactum Cup 2018 and 2019
 
-- Shopuka is a retail solution for the b2c market that does not require physical equipment, written in Java and Kotlin using Firebase (Authorization) and Butterknife
+- **Shopuka** is a retail solution for the b2c market that does not require physical equipment, written in Java and Kotlin using Firebase (Authorization) and Butterknife
 The project received 1 place in the 2018 Preactum Cup and funding in the amount of 300,000 rubles from the "Rybakov Fund"
 
 
