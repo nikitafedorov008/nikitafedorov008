@@ -27,7 +27,7 @@
 
 ### Contact Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-05151e?style=for-the-badge&logo=Telegram)](https://t.me/nikitafedorov008)
-[![Email](https://img.shields.io/badge/-Email-05151e?style=for-the-badge&logo=Email)](mailto:nikitafedorov008@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-05151e?style=for-the-badge&logo=Gmail)](mailto:nikitafedorov008@gmail.com)
 
 **Achievements:**
 
