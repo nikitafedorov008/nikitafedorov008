@@ -1,5 +1,5 @@
 ## Hi there 👋, ｉ'ｍ　<a href="https://standardresume.co/r/Osx3-dhH3XS57lVPRj2LM" target="_blank">Ｎｉｋｉｔａ</a>
-### Mobile developer (FLutter, Android, iOS)
+### Mobile developer (Flutter, Android, iOS)
 ![mobile developer](https://sun9-26.userapi.com/vF0KX7pDHlhoq6STPU6p8dGM6Rgc3v-g5oNe9A/sKxP2h6uJ38.jpg)
 
 ### Skills:
