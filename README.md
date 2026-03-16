@@ -63,4 +63,4 @@ The project received 1 place in the 2018 Preactum Cup and funding in the amount 
 
 **Foreign languages:**
 
-English - B1
+English - B2
