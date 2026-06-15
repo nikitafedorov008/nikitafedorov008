@@ -18,7 +18,7 @@
 ![LANGCHAIN](https://img.shields.io/badge/-Langchain-05151e?style=for-the-badge&logo=Langchain)
 ![GENKIT](https://img.shields.io/badge/-Genkit-05151e?style=for-the-badge&logo=Genkit)
 ![QDRANT](https://img.shields.io/badge/-Qdrant-05151e?style=for-the-badge&logo=Qdrant)
-![CHROMA](https://img.shields.io/badge/-Chroma-05151e?style=for-the-badge&logo=Chroma)
+![CHROMADB](https://img.shields.io/badge/-ChromaDB-05151e?style=for-the-badge&logo=ChromaDB)
 ![DOCLING](https://img.shields.io/badge/-Docling-05151e?style=for-the-badge&logo=Docling)
 ![LLAMAINDEX](https://img.shields.io/badge/-LlamaIndex-05151e?style=for-the-badge&logo=LlamaIndex)
 ![LITERT](https://img.shields.io/badge/-LiteRT-05151e?style=for-the-badge&logo=LiteRT)
