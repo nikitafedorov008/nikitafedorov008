@@ -21,6 +21,7 @@
 ![CHROMA](https://img.shields.io/badge/-Chroma-05151e?style=for-the-badge&logo=Chroma)
 ![DOCLING](https://img.shields.io/badge/-Docling-05151e?style=for-the-badge&logo=Docling)
 ![LLAMAINDEX](https://img.shields.io/badge/-LlamaIndex-05151e?style=for-the-badge&logo=LlamaIndex)
+![LITERT](https://img.shields.io/badge/-LiteRT-05151e?style=for-the-badge&logo=LiteRT)
 
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning algorithms and data structures
