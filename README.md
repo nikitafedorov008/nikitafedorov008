@@ -15,6 +15,8 @@
 ![SUPABASE](https://img.shields.io/badge/-Supabase-05151e?style=for-the-badge&logo=Supabase)
 ![DOCKER](https://img.shields.io/badge/-Docker-05151e?style=for-the-badge&logo=Docker)
 ![KUBERNETES](https://img.shields.io/badge/-Kubernetes-05151e?style=for-the-badge&logo=Kubernetes)
+![LANGCHAIN](https://img.shields.io/badge/-Langchain-05151e?style=for-the-badge&logo=Langchain)
+![GENKIT](https://img.shields.io/badge/-Genkit-05151e?style=for-the-badge&logo=Genkit)
 
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning algorithms and data structures 
