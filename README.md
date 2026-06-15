@@ -1,6 +1,6 @@
 ## Hi there 👋, ｉ'ｍ　<a href="https://standardresume.co/r/Osx3-dhH3XS57lVPRj2LM" target="_blank">Ｎｉｋｉｔａ</a>
-### Mobile developer (Flutter, Android, iOS)
-![mobile developer](https://sun9-26.userapi.com/vF0KX7pDHlhoq6STPU6p8dGM6Rgc3v-g5oNe9A/sKxP2h6uJ38.jpg)
+### AI/LLM Engineer
+![AI/LLM Engineer](https://sun9-26.userapi.com/vF0KX7pDHlhoq6STPU6p8dGM6Rgc3v-g5oNe9A/sKxP2h6uJ38.jpg)
 
 ### Skills:
 
@@ -17,12 +17,14 @@
 ![KUBERNETES](https://img.shields.io/badge/-Kubernetes-05151e?style=for-the-badge&logo=Kubernetes)
 ![LANGCHAIN](https://img.shields.io/badge/-Langchain-05151e?style=for-the-badge&logo=Langchain)
 ![GENKIT](https://img.shields.io/badge/-Genkit-05151e?style=for-the-badge&logo=Genkit)
+![QDRANT](https://img.shields.io/badge/-Qdrant-05151e?style=for-the-badge&logo=Qdrant)
+![QDRANT](https://img.shields.io/badge/-Qdrant-05151e?style=for-the-badge&logo=Qdrant)
 
 - 🔭 I’m currently working on my own projects
-- 🌱 I’m currently learning algorithms and data structures 
+- 🌱 I’m currently learning algorithms and data structures
 - 👯 I want to collaborate in scientific projects and startups with mobile apps 
 - 🤔 I’m looking for help with ML and Deep Learing
-- 💬 Ask me about Android & iOS, Flutter
+- 💬 Ask me about AI agnets, Harness, Mobile (Android, iOS, Flutter)
 - 📫 How to reach me: nikitafedorov008@gmail.com 
 - 😄 Pronouns: He/Him
 
