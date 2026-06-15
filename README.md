@@ -18,13 +18,15 @@
 ![LANGCHAIN](https://img.shields.io/badge/-Langchain-05151e?style=for-the-badge&logo=Langchain)
 ![GENKIT](https://img.shields.io/badge/-Genkit-05151e?style=for-the-badge&logo=Genkit)
 ![QDRANT](https://img.shields.io/badge/-Qdrant-05151e?style=for-the-badge&logo=Qdrant)
-![QDRANT](https://img.shields.io/badge/-Qdrant-05151e?style=for-the-badge&logo=Qdrant)
+![CHROMA](https://img.shields.io/badge/-Chroma-05151e?style=for-the-badge&logo=Chroma)
+![DOCLING](https://img.shields.io/badge/-Docling-05151e?style=for-the-badge&logo=Docling)
+![LLAMAINDEX](https://img.shields.io/badge/-LlamaIndex-05151e?style=for-the-badge&logo=LlamaIndex)
 
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning algorithms and data structures
 - 👯 I want to collaborate in scientific projects and startups with mobile apps 
 - 🤔 I’m looking for help with ML and Deep Learing
-- 💬 Ask me about AI agnets, Harness, Mobile (Android, iOS, Flutter)
+- 💬 Ask me about RAG, Agents, Harness engineering, Mobile (Android, iOS, Flutter)
 - 📫 How to reach me: nikitafedorov008@gmail.com 
 - 😄 Pronouns: He/Him
 
